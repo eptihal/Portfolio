@@ -180,7 +180,7 @@ export const projects = [
       "Category, regional, and product performance analysis",
     ],
     repo: "https://github.com/eptihal/Retail-Sales-PowerBI",
-    image: "/assets/images/dashboard.png",
+    image: `${BASE}assets/images/dashboard.png`,
   },
 
   {
@@ -194,7 +194,7 @@ export const projects = [
       "Monthly sales and customer analysis",
     ],
     repo: "https://github.com/eptihal/Python-Sales-Analysis",
-    image: "/assets/images/python-sales-analysis.png",
+   image: `${BASE}assets/images/python-sales-analysis.png`,
   },
 ];
 
